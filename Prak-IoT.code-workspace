@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "LED"
+		},
+		{
+			"name": "LampuJalanCerdas",
+			"path": "LampuJalanCerdas"
+		},
+		{
+			"path": "SensorCahaya"
+		},
+		{
+			"path": "Button"
+		},
+		{
+			"name": "arduino uno master",
+			"path": "arduino uno master"
+		},
+		{
+			"name": "sensorcahaya_arduinonano",
+			"path": "sensorcahaya_arduinonano"
+		}
+	],
+	"settings": {}
+}
