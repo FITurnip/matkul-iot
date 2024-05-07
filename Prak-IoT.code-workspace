@@ -20,6 +20,22 @@
 		{
 			"name": "sensorcahaya_arduinonano",
 			"path": "sensorcahaya_arduinonano"
+		},
+		{
+			"name": "i2c_master",
+			"path": "i2c_master"
+		},
+		{
+			"name": "i2c_slave",
+			"path": "i2c_slave"
+		},
+		{
+			"name": "i2c_master_esp32",
+			"path": "i2c_master_esp32"
+		},
+		{
+			"name": "ESP32MQTt",
+			"path": "ESP32MQTt"
 		}
 	],
 	"settings": {}
