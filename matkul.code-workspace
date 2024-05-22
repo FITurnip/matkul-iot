@@ -18,6 +18,10 @@
 		{
 			"name": "lora_test",
 			"path": "lora_test"
+		},
+		{
+			"name": "led_controller_by_esp32",
+			"path": "tp/led_controller_by_esp32"
 		}
 	],
 	"settings": {}
