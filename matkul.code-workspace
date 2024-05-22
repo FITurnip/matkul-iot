@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "uno_test_HC-SR04"
+		},
+		{
+			"name": "esp32_test_mqtt",
+			"path": "esp32_test_mqtt"
+		},
+		{
+			"name": "object_detector",
+			"path": "tp/object_detector"
+		},
+		{
+			"name": "object_detector_sender",
+			"path": "tp/object_detector_sender"
+		},
+		{
+			"name": "lora_test",
+			"path": "lora_test"
+		}
+	],
+	"settings": {}
+}
