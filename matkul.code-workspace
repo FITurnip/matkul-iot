@@ -22,6 +22,10 @@
 		{
 			"name": "led_controller_by_esp32",
 			"path": "tp/led_controller_by_esp32"
+		},
+		{
+			"name": "RFID_test",
+			"path": "RFID_test"
 		}
 	],
 	"settings": {}
